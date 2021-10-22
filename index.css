@@ -1,0 +1,22 @@
+p {
+color: black;
+font-size: large;
+}
+
+
+
+
+
+body {
+   text-align: center;
+  background-image: url(https://www.julieseatsandtreats.com/wp-content/uploads/2020/06/Rainbow-Ice-Cream-14-of-16.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
+
+h1 {
+    color: rgb(rgb(2, 2, 2), rgb(4, 14, 4), rgb(15, 15, 82));
+}
